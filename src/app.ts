@@ -19,3 +19,4 @@ app.use("/auth", authRoutes)
 app.use(globalErrorHandler)
 
 export default app
+
